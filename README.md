@@ -3,7 +3,7 @@
 #### Arhum Zafar - November 2020
 
 By looking at the sentiment of posts on the internet, whether they are positive, negative, or neutral -- we can understand how people feel about certain topics. 
-Furthermore, understanding the sentiment of the tweets can be vital for differnt purposes such as: information gathering, politics, marketing & advertising, behavior analysis, and more. 
+Furthermore, understanding the sentiment of the tweets can be vital for different purposes such as: information gathering, politics, marketing & advertising, behavior analysis, and more. 
 <br>
 <br>
 In this project, we'll be analyzing the sentiment of tweets, however analysis on Twitter is not a trivial task. According to 
