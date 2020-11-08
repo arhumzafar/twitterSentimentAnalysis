@@ -11,7 +11,7 @@ In this project, we'll be analyzing the sentiment of tweets; however analysis on
 roughly 6,000 tweets are posted each second. This obivously yields an influx of data to process which poses a problem since human sentiment analysis is not easily scalable.
 <br>
 <br>
-In this notebook, I'll try to look at the foundation of a sentiment analysis model that could be built to scalae which also takes in part of the text-cleaning process. 
+In this notebook, I'll try to look at the foundation of a sentiment analysis model that could be built to scale which also takes in part of the text-cleaning process. 
 
 <br>
 <br>
